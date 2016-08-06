@@ -1,0 +1,18 @@
+[General]
+Name=ASUS T300CHI DOCKING
+Class=0x0005c0
+SupportedTechnologies=BR/EDR;
+Trusted=false
+Blocked=false
+Services=00001000-0000-1000-8000-00805f9b34fb;00001124-0000-1000-8000-00805f9b34fb;00001200-0000-1000-8000-00805f9b34fb;
+
+[LinkKey]
+Key=10
+Type=0
+PINLength=0
+
+[DeviceID]
+Source=2
+Vendor=2821
+Product=34050
+Version=1
