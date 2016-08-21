@@ -16,3 +16,4 @@ HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\BTHPORT\Parameters\Keys\aa11111
 ```
 1C:B7:2C:04:C5:F9 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 0 6
 ```
+[More info](http://www.bustatech.com/bluetooth-keyboard-dual-boot-windows-ubuntu/)
